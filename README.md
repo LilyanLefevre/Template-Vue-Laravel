@@ -30,5 +30,7 @@ There are 3 differents users included in database seeder :
 - Basic admin : id = admin@test.com, password = password
 - Simple user : id = user@test.com, password = password
 
+## Special thanks
+Special thanks to https://medium.com because this template is highly based on [this tuto](https://medium.com/@laraveltuts/laravel-9-vue-js-roles-and-permissions-vite-js-21dc17813961)
 ## License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
