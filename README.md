@@ -10,9 +10,7 @@
 
 ## Install dependancies
 ```shell
-cd scripts
-sudo chmod 777 .*
-./init-dev-env.sh
+./scripts/init-dev-env.sh 
 ```
 
 ## Backend commands
