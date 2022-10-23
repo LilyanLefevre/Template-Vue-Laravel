@@ -55,17 +55,17 @@ class BasicAdminPermissionSeeder extends Seeder
         // create demo users
         $user = \App\Models\User::factory()->create([
             'name' => 'Super Admin',
-            'email' => 'superadmin@laraveltuts.com',
+            'email' => 'superadmin',
         ]);
         $user->assignRole($role3);
         $user = \App\Models\User::factory()->create([
             'name' => 'Admin User',
-            'email' => 'admin@laraveltuts.com',
+            'email' => 'admin',
         ]);
         $user->assignRole($role2);
         $user = \App\Models\User::factory()->create([
             'name' => 'Example User',
-            'email' => 'test@laraveltuts.com',
+            'email' => 'user',
         ]);
         $user->assignRole($role1);
     }
