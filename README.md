@@ -24,5 +24,11 @@
 ./startFront.sh
 ```
 
+## Default users
+There are 3 differents users included in database seeder : 
+- Super admin : id = superadmin@test.com, password = password
+- Basic admin : id = admin@test.com, password = password
+- Simple user : id = user@test.com, password = password
+
 ## License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
