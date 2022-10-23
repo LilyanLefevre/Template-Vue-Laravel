@@ -1,1 +1,1 @@
-../vendor/bin/sail down
+./vendor/bin/sail down
