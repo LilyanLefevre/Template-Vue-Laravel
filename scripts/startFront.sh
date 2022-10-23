@@ -1,1 +1,1 @@
-../vendor/bin/sail npm run dev
+./vendor/bin/sail npm run dev
