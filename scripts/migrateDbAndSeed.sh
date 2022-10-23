@@ -1,1 +1,1 @@
-../vendor/bin/sail php artisan migrate:fresh --seed
+./vendor/bin/sail php artisan migrate:fresh --seed
