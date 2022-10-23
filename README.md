@@ -11,7 +11,7 @@
 ## Install dependancies
 ```shell
 cd scripts
-sudo chown 777 .*
+sudo chmod 777 .*
 ./init-dev-env.sh
 ```
 
